@@ -1,4 +1,4 @@
-# Project Title: Modeling the Flow Behavior of Reduced Activation Ferritic-Martensitic Steel
+# Project Title: EFFECT OF THERMO-MECHANICAL TREATMENT IN AUSTENITIC CONDITION ON FLOW BEHAVIOUR OF REDUCED ACTIVATION FERRITIC-MARTENSITIC STEEL
 
 ## Project Overview
 
@@ -6,7 +6,7 @@ This project focuses on understanding the flow behavior of 9Cr-1W-0.06Ta Reduced
 
 ## Contributors
 
-- Mr. G. Kuladeep (Assistant Professor)
+## - Mr. G. Kuladeep (Assistant Professor)
 - S. Pavan Kalyan Reddy
 - P. Siva Teja
 - K. Muni Sai Kumar Reddy
